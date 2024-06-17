@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T21:52:55.729+08:00"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T22:07:14.057+08:00"}
 ---
 
 #exam #ict
@@ -86,3 +86,42 @@ The **variety** of data is limited to X and Y
   Developers and users of AI should be accountable for its impact.
 * **Privacy**
   AI development and use should protect user privacy and data security.
+### Self Driving Car Moral Responsibility
+Moral Machine
+**Stakeholder** responsibility taker
+- depends on country law
+- according to local law
+- list **all** responsible parties
+  car owner, tech dev team, driver, manufacturer, stakeholder
+Social Values, Gender, Avoid intervention, age preference, protecting passengers
+## Python
+### Variable Swapping
+```python
+x=1
+y=2
+
+z=x
+x=y
+y=z
+```
+### Conditionals
+```python
+if (x==y):
+	print("Equal")
+elif (x>y):
+	print("X bigger")
+else:
+	print("Y bigger")
+```
+### Pythagorean Theorem
+```python
+a^2 + b^2 == c^2
+```
+### For Loop
+Diamond Shape
+```python
+for i in range(n):
+	print(" "*(n-i) + "A "*i)
+for i in range(n):
+	print(" "*(i) + "A "*(n-i))
+```
