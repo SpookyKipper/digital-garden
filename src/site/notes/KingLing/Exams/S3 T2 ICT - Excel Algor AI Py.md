@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T22:23:39.877+08:00"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T22:51:43.725+08:00"}
 ---
 
 #exam #ict
@@ -19,7 +19,7 @@
 	what to expect in range
 **sum_range (cell ref array)**
 	relative to range, actual cells to use
-### =sumif(range, criteria)
+### =countif(range, criteria)
 **range (cell ref)**
 	where it matches criteria
 **criteria (string)**
@@ -99,7 +99,6 @@ Social Values, Gender, Avoid intervention, age preference, protecting passengers
 ```python
 x=1
 y=2
-
 z=x
 x=y
 y=z
