@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T22:07:14.057+08:00"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2024-06-17T14:04:45.889+08:00","updated":"2024-06-17T22:21:03.827+08:00"}
 ---
 
 #exam #ict
@@ -115,7 +115,7 @@ else:
 ```
 ### Pythagorean Theorem
 ```python
-a^2 + b^2 == c^2
+a**2 + b**2 == c**2
 ```
 ### For Loop
 Diamond Shape
