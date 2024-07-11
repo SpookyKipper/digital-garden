@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-econ/","created":"2024-06-20T21:49:45.741+08:00","updated":"2024-06-20T22:41:22.030+08:00"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-econ/"}
 ---
 
 #economics #emba #exam
@@ -29,9 +29,9 @@
 **Quantity Demanded** = **Quantity Supplied**
 ## <u>Change in Demand & Supply</u>
 
-![Pasted image 20240620220558.png](/img/user/Pasted%20image%2020240620220558.png)
+![Pasted image 20240620220558.png](/img/user/Images/Pasted%20image%2020240620220558.png)
 
-![Pasted image 20240620220642.png](/img/user/Pasted%20image%2020240620220642.png)
+![Pasted image 20240620220642.png](/img/user/Images/Pasted%20image%2020240620220642.png)
 
 ### Price of Substitute
 **Competitive Demand**
@@ -95,7 +95,7 @@ Demand for inferior/normal goods decrease
 - Costs change with output level
 - e.g. Gas, Electricity, Water
 
-![Pasted image 20240620223906.png](/img/user/Pasted%20image%2020240620223906.png)
+![Pasted image 20240620223906.png](/img/user/Images/Pasted%20image%2020240620223906.png)
 
 # Internal Economies of scale
 ### Financial Economies
