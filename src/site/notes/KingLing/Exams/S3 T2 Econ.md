@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-econ/"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-econ/","created":"2025-03-26T23:38:38.696+08:00","updated":"2024-11-12T18:21:57.000+08:00"}
 ---
 
 #economics #emba #exam

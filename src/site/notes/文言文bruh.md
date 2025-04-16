@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bruh/"}
+{"dg-publish":true,"permalink":"/bruh/","created":"2025-03-26T23:38:39.106+08:00","updated":"2024-11-12T18:21:57.000+08:00"}
 ---
 
 	# 字

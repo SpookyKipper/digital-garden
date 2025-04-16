@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-ict-excel-algor-ai-py/","created":"2025-03-26T23:38:37.014+08:00","updated":"2024-09-18T21:14:31.000+08:00"}
 ---
 
 #exam #ict
