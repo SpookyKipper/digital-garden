@@ -29,9 +29,9 @@
 **Quantity Demanded** = **Quantity Supplied**
 ## <u>Change in Demand & Supply</u>
 
-![Pasted image 20240620220558.png](/img/user/Images/Pasted%20image%2020240620220558.png)
+![Pasted image 20240620220558.png](/img/user/assets/Others/Pasted%20image%2020240620220558.png)
 
-![Pasted image 20240620220642.png](/img/user/Images/Pasted%20image%2020240620220642.png)
+![Pasted image 20240620220642.png](/img/user/assets/Others/Pasted%20image%2020240620220642.png)
 
 ### Price of Substitute
 **Competitive Demand**
@@ -95,7 +95,7 @@ Demand for inferior/normal goods decrease
 - Costs change with output level
 - e.g. Gas, Electricity, Water
 
-![Pasted image 20240620223906.png](/img/user/Images/Pasted%20image%2020240620223906.png)
+![Pasted image 20240620223906.png](/img/user/assets/Others/Pasted%20image%2020240620223906.png)
 
 # Internal Economies of scale
 ### Financial Economies
@@ -105,3 +105,7 @@ Demand for inferior/normal goods decrease
 ### Marketing Economies
 - Advertising Cost *nearly* the same even with more output
 - Average Cost drops
+
+
+
+

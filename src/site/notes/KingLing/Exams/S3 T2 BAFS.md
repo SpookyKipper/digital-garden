@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-bafs/","created":"2024-06-20T17:25:25.378+08:00","updated":"2024-06-20T21:45:36.807+08:00"}
+{"dg-publish":true,"permalink":"/king-ling/exams/s3-t2-bafs/"}
 ---
 
 #emba #bafs #exam
@@ -59,12 +59,12 @@
 - enhancing the firm’s reputation. Their reputation helps promote the partnership’s business.
 - strengthening business linkages.
 
-![Pasted image 20240620174158.png](/img/user/Images/Pasted%20image%2020240620174158.png)
+![Pasted image 20240620174158.png](/img/user/assets/Others/Pasted%20image%2020240620174158.png)
 
 
 # Type of limited companies
 
-![Pasted image 20240620174253.png](/img/user/Images/Pasted%20image%2020240620174253.png)
+![Pasted image 20240620174253.png](/img/user/assets/Others/Pasted%20image%2020240620174253.png)
 
 # Pros/Cons of different forms of business ownership
 ### Sole Proprietorship
@@ -132,7 +132,7 @@
 - **Costs of Goods Sold** = Opening inventory + costs of goods purchased - closing inventory
 	- Costs of goods purchased = purchases + carriage inwards - returns outwards
 - Gross Profit = net sales - **cost of goods sold**
-![Pasted image 20240620182041.png](/img/user/Images/Pasted%20image%2020240620182041.png)
+![Pasted image 20240620182041.png](/img/user/assets/Others/Pasted%20image%2020240620182041.png)
 ### Financial Statement
 ##### Non-current assets
 Durability: most to least
@@ -142,4 +142,4 @@ Liquidity: least to most
 No specific order
 #### Closing Capital = Opening Capital + Net Profit - Drawings
 
-![Pasted image 20240620214355.png](/img/user/Images/Pasted%20image%2020240620214355.png)
+![Pasted image 20240620214355.png](/img/user/assets/Others/Pasted%20image%2020240620214355.png)
